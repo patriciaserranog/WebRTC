@@ -12,3 +12,4 @@
 | Vodafone | Ratna Ganeshanandan |
 | Orange | Benjamin Busvel |
 | Orange | Maxime Delon |
+| Telefónica | Patricia Serrano |
